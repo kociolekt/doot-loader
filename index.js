@@ -1,5 +1,8 @@
 var dootify = require('dootify/process');
 
 module.exports = function(source) {
-  return dootify(source);
+  //TODO: cache id
+  //var id = require.resolve(this.resource);
+
+  this.callback(null, dootify(source));
 };
