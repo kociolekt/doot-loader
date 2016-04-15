@@ -1,0 +1,31 @@
+{
+  "name": "doot-loader",
+  "version": "1.0.0",
+  "description": "Dootify like webpack-loader. Twig syntax. DOM results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kociolekt/doot-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "dootify",
+    "twig",
+    "template",
+    "html",
+    "dom"
+  ],
+  "author": "Tomek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kociolekt/doot-loader/issues"
+  },
+  "homepage": "https://github.com/kociolekt/doot-loader#readme",
+  "dependencies": {
+    "dootify": "^1.0.1"
+  }
+}
