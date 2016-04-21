@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/kociolekt/doot-loader#readme",
   "dependencies": {
-    "dootify": "^2.1.2"
+    "dootify": "^2.1.3"
   }
 }
