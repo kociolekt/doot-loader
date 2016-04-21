@@ -1,6 +1,6 @@
 {
   "name": "doot-loader",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Dootify like webpack-loader. Twig syntax. DOM results.",
   "main": "index.js",
   "scripts": {
